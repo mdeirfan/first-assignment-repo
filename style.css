@@ -195,3 +195,49 @@ body {
 .fifth-button {
     margin-top: 50px;
 }
+
+.sixth-container {
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.sixth-container h1 {
+    font-weight: 1000;
+    font-size: 25px;
+
+}
+
+
+
+
+.email-box {
+    display: flex;
+    border: 1px solid #d8da9b;
+    height: 200px;
+    width: 700px;
+    margin-left: 300px;
+    margin-right: 400px;
+    background-color: #d8da9b;
+    margin-bottom: 100px;
+}
+
+.email {
+    background-color: #d5d8ddb0;
+    border: solid #d5d8ddb0;
+    margin-left: 190px;
+    padding-right: 200px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color: rgb(115, 117, 119);
+
+
+}
+
+.sub {
+    background-color: red;
+    border: solid red;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color: white;
+}
