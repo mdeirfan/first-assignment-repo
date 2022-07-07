@@ -5,11 +5,11 @@ body {
 .first-heading {
     text-align: center;
     font-size: 40px;
-    font-weight: ;
+    font-weight: 800;
     color: aliceblue;
 }
 
-section {
+.top-container {
 
     text-align: center;
     background: url(donation13.jpg);
@@ -37,4 +37,54 @@ section {
     color: aliceblue;
     border-radius: 5px;
 
+}
+
+.second-container {
+    text-align: center;
+    padding-top: 80px;
+    color: rgb(102, 100, 100);
+}
+
+.money-boxes {
+    display: flex;
+    padding-top: 30px;
+
+}
+
+.second-heading {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+.box {
+    background-color: whitesmoke;
+    margin-right: 20px;
+    color: rgb(102, 100, 100);
+    padding: 30px 20px;
+    font-weight: 1000;
+    border-radius: 5px;
+    font-size: 25px;
+
+
+}
+
+.box-2 {
+    color: orangered;
+    border: 1px solid orangered;
+    background-color: rgba(255, 68, 0, 0.219);
+
+}
+
+.box-1 {
+    margin-left: 22%;
+}
+
+.second-container h1 {
+    color: black;
+}
+
+.hr-container {
+    padding-top: 50px;
+    padding-bottom: 30px;
 }
