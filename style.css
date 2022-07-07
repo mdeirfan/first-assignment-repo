@@ -88,3 +88,54 @@ body {
     padding-top: 50px;
     padding-bottom: 30px;
 }
+
+.third-container {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.third-heading {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.icon-box {
+    display: flex;
+    text-align: start;
+    padding-top: 30px;
+
+}
+
+
+.help-box-1 {
+    background-color: rgba(209, 203, 203, 0.514);
+    margin-right: 30px;
+    margin-left: 200px;
+    width: 250px;
+    height: 250px;
+    padding: 50px 20px;
+    color: rgb(102, 100, 100);
+
+}
+
+.help-box-2 {
+    background-color: rgba(255, 192, 203, 0.596);
+    margin-right: 30px;
+    width: 250px;
+    height: 250px;
+    padding: 50px 20px;
+    color: rgb(102, 100, 100);
+}
+
+.help-box-3 {
+    background-color: rgba(231, 231, 124, 0.616);
+    margin-right: 30px;
+    width: 250px;
+    height: 250px;
+    padding: 50px 20px;
+    color: rgb(102, 100, 100);
+}
+
+.hb h3 {
+    color: black;
+}
