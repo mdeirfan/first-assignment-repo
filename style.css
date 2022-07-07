@@ -241,3 +241,22 @@ body {
     margin-bottom: 80px;
     color: white;
 }
+
+.first-footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+
+.foot-1 {
+    font-family: 'Dancing Script', cursive;
+    color: tomato;
+
+}
+
+.foot-2 {
+    color: aliceblue;
+
+}
