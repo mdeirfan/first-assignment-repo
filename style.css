@@ -139,3 +139,59 @@ body {
 .hb h3 {
     color: black;
 }
+
+.forth-container {
+    display: flex;
+    border-radius: 10px;
+
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 250px;
+}
+
+.text-div {
+    width: 50%;
+}
+
+.text-div img {
+    width: 100%;
+    border-radius: 5px;
+    height: 400px;
+
+}
+
+.forth-button {
+    margin-top: 50px;
+}
+
+.txt {
+    margin-right: 40px;
+}
+
+.fifth-container {
+    display: flex;
+    border-radius: 10px;
+
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 250px;
+}
+
+.txtt-div {
+    width: 50%;
+}
+
+.txtt-div img {
+    width: 100%;
+    border-radius: 5px;
+    height: 400px;
+
+}
+
+.txtt {
+    margin-left: 40px;
+}
+
+.fifth-button {
+    margin-top: 50px;
+}
